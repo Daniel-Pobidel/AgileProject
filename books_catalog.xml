@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bookstore>
     
-<!-- I added "pages" to book Objects, but we could also
-     include "type", for example hard-cover, paper-back, digital, etc -->
-
+<!-- TO DO - add ratings and reviews -->    
+<!-- Daniel Pobidel -->
+    
   <!--Sapiens -->
   <book> 
     <author>Yuval Noah Harari</author>
